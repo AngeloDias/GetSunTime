@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GetSunTime</string>
+    <string name="edit_txt_city_name_hint">Enter city name</string>
+    <string name="edit_txt_name">Name</string>
+    <string name="txt_get_sunset">Get sunset</string>
+    <string name="txt_view_txt">Here comes the sun</string>
+    <string name="txt_sunrise_time_is">Sunrise time is $s</string>
+</resources>
